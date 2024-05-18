@@ -10,4 +10,4 @@ An app which simply shows the day in the calendar
 
 #### Authors:
 -[RamakrishnanRamanathan]
-(https://www.instagram.com/ramakrishnan_ramanathan)
+(https://www.instagram.com/ramkrishnan_ramanathan/)
