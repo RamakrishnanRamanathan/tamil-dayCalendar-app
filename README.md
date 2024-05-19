@@ -4,7 +4,7 @@ An app which simply shows the day in the calendar
 
 #### Screenshots
 
->Live:[https://ramakrishnanramanathan.github.io./tamil-dayCalendar-app/](https://ramakrishnanramanathan.github.io./tamil-dayCalendar-app/)
+>Live:[https://ramakrishnanramanathan.github.io/tamil-dayCalendar-app/](https://ramakrishnanramanathan.github.io/tamil-dayCalendar-app/)
 
 #### LICENSE: [MIT](./LICENSE)
 
